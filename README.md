@@ -10,6 +10,8 @@ This is an example of a music player. It's designed using HTML, CSS, and JavaScr
 
 - JavaScript
 
-<h2> Video </h2>
+<h2> Screen Gif </h2>
 
-![](MBV.mp4)
+(You can watch the video version at this link.)
+
+![](gmb.gif)
