@@ -138,7 +138,7 @@ function reset() {
 }
 function randomTrack() {
   var button = document.getElementById("randomButton");
-  button.classList.toggle("active"); // togglejkkkkkkkkkkk
+  button.classList.toggle("active"); // toggle
 }
 
 
@@ -204,10 +204,9 @@ function setVolume() {
   var volumeIconUp = document.querySelector('.fa-volume-up');
 
   volumeIconDown.addEventListener('click', function () {
-    volumeSlider.value = 0; // Ses sıfıra ayarlanıyor
-    // Sesi sıfırla (varsayılan ses sıfır olarak kabul ediliyorsa)
+    volumeSlider.value = 0; 
     var newVolume = volumeSlider.value / 100;
-    // Ses kontrolünü gerçekleştirme işlemi burada yapılır (örneğin: audioElement.volume = newVolume;)
+    
   });
 }
 
