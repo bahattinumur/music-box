@@ -12,6 +12,6 @@ This is an example of a music player. It's designed using HTML, CSS, and JavaScr
 
 <h2> Screen Gif </h2>
 
-(You can watch the video version at this link.)
+(You can watch the video version at this link.) = https://www.linkedin.com/feed/update/urn:li:activity:7136964588654194688/
 
 ![](gmb.gif)
